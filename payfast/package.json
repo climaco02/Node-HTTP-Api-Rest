@@ -1,0 +1,24 @@
+{
+  "name": "payfast",
+  "version": "1.0.0",
+  "description": "um gateway para pagamentos atraves de rescursos http.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/climaco02/Node-HTTP-Api-Rest.git"
+  },
+  "keywords": [
+    "gateway",
+    "pagamentos",
+    "api"
+  ],
+  "author": "climaco02",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/climaco02/Node-HTTP-Api-Rest/issues"
+  },
+  "homepage": "https://github.com/climaco02/Node-HTTP-Api-Rest#readme"
+}
