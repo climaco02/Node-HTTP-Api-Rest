@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/climaco02/Node-HTTP-Api-Rest/issues"
   },
-  "homepage": "https://github.com/climaco02/Node-HTTP-Api-Rest#readme"
+  "homepage": "https://github.com/climaco02/Node-HTTP-Api-Rest#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
